@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rongorti.github.io/rongorti.txt.gz
+Sitemap: https://rongorti.github.io/app/rongorti.txt.gz
+Sitemap: https://rongorti.github.io/assets/rongorti.txt.gz
+Sitemap: https://rongorti.github.io/css/rongorti.txt.gz
+Sitemap: https://rongorti.github.io/includes/rongorti.txt.gz
+Sitemap: https://rongorti.github.io/item/rongorti.txt.gz
+Sitemap: https://rongorti.github.io/src/rongorti.txt.gz
